@@ -13,6 +13,7 @@ const StaticBannerSection = () => {
 				{data 
 				&& data?.map((item:any)=>{
 					return <Image
+						key={item?._id}
 						borderRadius='8px'
 						w='full'
 						objectFit='cover'
