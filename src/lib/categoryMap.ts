@@ -1,0 +1,87 @@
+export const categoryXImage = [
+	{
+		id: 54,
+		parent_id: 2,
+		name: "Grocery",
+		image: "/category/1.svg",
+	},
+	{
+		id: 56,
+		parent_id: 2,
+		name: "Personal Care ",
+		image: "/category/2.svg",
+	},
+	{
+		id: 58,
+		parent_id: 2,
+		name: "Baby Care ",
+		image: "/category/3.svg",
+	},
+	{
+		id: 55,
+		parent_id: 2,
+		name: "Cleaning Supplies ",
+		image: "/category/4.svg",
+	},
+	{
+		id: 57,
+		parent_id: 2,
+		name: "Health & Wellness",
+		image: "/category/5.svg",
+	},
+	{
+		id: 60,
+		parent_id: 2,
+		name: "Pet Care ",
+		image: "/category/6.svg",
+	},
+	{
+		id: 506,
+		parent_id: 2,
+		name: "Home & Kitchen",
+		image: "/category/7.svg",
+	},
+	{
+		id: 754,
+		parent_id: 2,
+		name: "Toys & Sports",
+		image: "/category/8.svg",
+	},
+	{
+		id: 1250,
+		parent_id: 2,
+		name: "Stationery & Office",
+		image: "/category/9.svg",
+	},
+	{
+		id: 1245,
+		parent_id: 2,
+		name: "Vehicle Essentials",
+		image: "/category/10.svg",
+	},
+	{
+		id: 1646,
+		parent_id: 2,
+		name: "BOGO",
+		image: "/category/11.svg",
+	},
+	{
+		id: 1648,
+		parent_id: 2,
+		name: "Offer",
+		image: "/category/1.svg",
+	},
+	{
+		id: 1649,
+		parent_id: 2,
+		name: "Plastic free",
+		image: "/category/2.svg",
+	},
+	{
+		id: 1655,
+		parent_id: 2,
+		name: "Promotion",
+		image: "/category/3.svg",
+	},
+	{ id: 57, parent_id: 2, name: "Health & Wellness", image: "/category/1.svg" },
+];
